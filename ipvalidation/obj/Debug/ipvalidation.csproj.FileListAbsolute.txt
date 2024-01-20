@@ -1,0 +1,30 @@
+C:\Users\ODA\Desktop\project c#\ipvalidation\ipvalidation\ipvalidation\bin\Debug\ipvalidation.exe.config
+C:\Users\ODA\Desktop\project c#\ipvalidation\ipvalidation\ipvalidation\bin\Debug\ipvalidation.exe
+C:\Users\ODA\Desktop\project c#\ipvalidation\ipvalidation\ipvalidation\bin\Debug\ipvalidation.pdb
+C:\Users\ODA\Desktop\project c#\ipvalidation\ipvalidation\ipvalidation\obj\Debug\ipvalidation.csprojAssemblyReference.cache
+C:\Users\ODA\Desktop\project c#\ipvalidation\ipvalidation\ipvalidation\obj\Debug\ipvalidation.Form1.resources
+C:\Users\ODA\Desktop\project c#\ipvalidation\ipvalidation\ipvalidation\obj\Debug\ipvalidation.Properties.Resources.resources
+C:\Users\ODA\Desktop\project c#\ipvalidation\ipvalidation\ipvalidation\obj\Debug\ipvalidation.csproj.GenerateResource.cache
+C:\Users\ODA\Desktop\project c#\ipvalidation\ipvalidation\ipvalidation\obj\Debug\ipvalidation.csproj.CoreCompileInputs.cache
+C:\Users\ODA\Desktop\project c#\ipvalidation\ipvalidation\ipvalidation\obj\Debug\ipvalidation.exe
+C:\Users\ODA\Desktop\project c#\ipvalidation\ipvalidation\ipvalidation\obj\Debug\ipvalidation.pdb
+C:\PROJECTS CARRIER\project c# OBJECT ORIENTED\ipvalidation\ipvalidation\ipvalidation\bin\Debug\ipvalidation.exe.config
+C:\PROJECTS CARRIER\project c# OBJECT ORIENTED\ipvalidation\ipvalidation\ipvalidation\bin\Debug\ipvalidation.exe
+C:\PROJECTS CARRIER\project c# OBJECT ORIENTED\ipvalidation\ipvalidation\ipvalidation\bin\Debug\ipvalidation.pdb
+C:\PROJECTS CARRIER\project c# OBJECT ORIENTED\ipvalidation\ipvalidation\ipvalidation\obj\Debug\ipvalidation.csprojAssemblyReference.cache
+C:\PROJECTS CARRIER\project c# OBJECT ORIENTED\ipvalidation\ipvalidation\ipvalidation\obj\Debug\ipvalidation.Form1.resources
+C:\PROJECTS CARRIER\project c# OBJECT ORIENTED\ipvalidation\ipvalidation\ipvalidation\obj\Debug\ipvalidation.Properties.Resources.resources
+C:\PROJECTS CARRIER\project c# OBJECT ORIENTED\ipvalidation\ipvalidation\ipvalidation\obj\Debug\ipvalidation.csproj.GenerateResource.cache
+C:\PROJECTS CARRIER\project c# OBJECT ORIENTED\ipvalidation\ipvalidation\ipvalidation\obj\Debug\ipvalidation.csproj.CoreCompileInputs.cache
+C:\PROJECTS CARRIER\project c# OBJECT ORIENTED\ipvalidation\ipvalidation\ipvalidation\obj\Debug\ipvalidation.exe
+C:\PROJECTS CARRIER\project c# OBJECT ORIENTED\ipvalidation\ipvalidation\ipvalidation\obj\Debug\ipvalidation.pdb
+C:\todo pc\archivos de pc 2023\project c# OBJECT ORIENTED\ipvalidation\ipvalidation\ipvalidation\bin\Debug\ipvalidation.exe.config
+C:\todo pc\archivos de pc 2023\project c# OBJECT ORIENTED\ipvalidation\ipvalidation\ipvalidation\bin\Debug\ipvalidation.exe
+C:\todo pc\archivos de pc 2023\project c# OBJECT ORIENTED\ipvalidation\ipvalidation\ipvalidation\bin\Debug\ipvalidation.pdb
+C:\todo pc\archivos de pc 2023\project c# OBJECT ORIENTED\ipvalidation\ipvalidation\ipvalidation\obj\Debug\ipvalidation.csprojAssemblyReference.cache
+C:\todo pc\archivos de pc 2023\project c# OBJECT ORIENTED\ipvalidation\ipvalidation\ipvalidation\obj\Debug\ipvalidation.Form1.resources
+C:\todo pc\archivos de pc 2023\project c# OBJECT ORIENTED\ipvalidation\ipvalidation\ipvalidation\obj\Debug\ipvalidation.Properties.Resources.resources
+C:\todo pc\archivos de pc 2023\project c# OBJECT ORIENTED\ipvalidation\ipvalidation\ipvalidation\obj\Debug\ipvalidation.csproj.GenerateResource.cache
+C:\todo pc\archivos de pc 2023\project c# OBJECT ORIENTED\ipvalidation\ipvalidation\ipvalidation\obj\Debug\ipvalidation.csproj.CoreCompileInputs.cache
+C:\todo pc\archivos de pc 2023\project c# OBJECT ORIENTED\ipvalidation\ipvalidation\ipvalidation\obj\Debug\ipvalidation.exe
+C:\todo pc\archivos de pc 2023\project c# OBJECT ORIENTED\ipvalidation\ipvalidation\ipvalidation\obj\Debug\ipvalidation.pdb
